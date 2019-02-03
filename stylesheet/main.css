@@ -1,0 +1,17 @@
+html {
+  padding: 0;
+  margin: 0;
+  background-color: #FFF;
+}
+
+body{
+	color: #000;
+	margin: 0;
+	background-repeat: no-repeat;
+}
+.Wrapper {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+}

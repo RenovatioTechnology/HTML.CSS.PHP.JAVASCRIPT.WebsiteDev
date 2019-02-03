@@ -1,0 +1,10 @@
+.footer {
+	display: block;
+	background-color: #000;
+	float: none;
+	line-height: 48px;
+	color: #FFF;
+	position: relative;
+	height: 50px;
+	margin: 0;
+}
