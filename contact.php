@@ -50,7 +50,7 @@ $email = $_POST['email'];
 $message = $_POST['message'];
 
 $body = <<<EOD
-  
+
 <br><hr><br>
 *Name: $name <br>
 *Company: $company <br>
@@ -75,7 +75,7 @@ $theResults = <<<EOD
 
 </head>
 <body>
-<div align ="center">Thank you for your interest in Lloyds Alternative Management, Your email will be answered very soon</div> 
+<div align ="center">Thank you for your interest in Lloyds Alternative Management, Your email will be answered very soon</div>
 
   </body>
   </html>
@@ -83,6 +83,3 @@ $theResults = <<<EOD
 EOD;
 echo  "$theResults";
 ?>
-
-
-
